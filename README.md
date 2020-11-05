@@ -10,7 +10,7 @@
 
 - Repository (Kho): là thư mục. Thư mục trên github.com gọi là remote repository, còn ở máy tính là local repository.
 
-- Branch (nhánh): ví dụ t làm 1 phần trên 1 nhánh, m rẽ sang nhánh khác làm chức năng khác, sau này hộp lại (merge)
+- Branch (nhánh): ví dụ mình làm 1 phần trên 1 nhánh, mình rẽ sang nhánh khác làm chức năng khác, sau này hộp lại (merge)
 
 - Remote (máy chủ): Nơi lưu tất cả các phiên bản
  
