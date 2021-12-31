@@ -1,3 +1,9 @@
+### First-Time Git Setup
+
+```
+git config --global user.name "Nguyen Ngoc Binh"
+git config --global user.email nguyenngocbinhneu@gmail.com
+```
 
 ### Delete branch local and remote
 ```{}
